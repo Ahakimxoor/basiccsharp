@@ -1,0 +1,14 @@
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\bin\Debug\net8.0\basicProject.exe
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\bin\Debug\net8.0\basicProject.deps.json
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\bin\Debug\net8.0\basicProject.runtimeconfig.json
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\bin\Debug\net8.0\basicProject.dll
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\bin\Debug\net8.0\basicProject.pdb
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.AssemblyInfoInputs.cache
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.AssemblyInfo.cs
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.csproj.CoreCompileInputs.cache
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.dll
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\refint\basicProject.dll
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.pdb
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\basicProject.genruntimeconfig.cache
+c:\Users\hp\Desktop\csharpprojectbasic\basicProject\obj\Debug\net8.0\ref\basicProject.dll
